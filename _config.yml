@@ -1,0 +1,28 @@
+name: hangovercureperth
+favicon: null
+layout_spectrum: 0.559465806465596
+typography_spectrum: 0.10354236140847206
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.9758310841862112
+  lightness: 0.37188583076931536
+  saturation: 0.488199298735708
+  rhythmicContrast: 0.7940362337976694
+purpose: []
